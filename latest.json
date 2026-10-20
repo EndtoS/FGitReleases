@@ -1,35 +1,35 @@
 {
-  "version": "0.7.3",
-  "notes": "FGit 0.7.3",
-  "publishedAt": "2026-10-20T17:11:51.823Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.3/FGit-Setup-0.7.3.msi",
+  "version": "0.7.4",
+  "notes": "FGit 0.7.4",
+  "publishedAt": "2026-10-20T17:51:32.452Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.4/FGit-Setup-0.7.4.msi",
   "assets": [
     {
-      "name": "FGit-Setup-0.7.3.msi",
+      "name": "FGit-Setup-0.7.4.msi",
       "label": "Windows MSI 安装包(推荐)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.3/FGit-Setup-0.7.3.msi",
-      "sha256": "c5fc95e9d34a577c1c7f41ef6b3729028f278016794529d2c500719b78d269e4",
-      "size": 89423872
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.4/FGit-Setup-0.7.4.msi",
+      "sha256": "e972b44185b5a964c86d20b0d6c24263d9558c4931affe7e3d511a49098abbfd",
+      "size": 89477120
     },
     {
-      "name": "FGit-Setup-0.7.3.exe",
+      "name": "FGit-Setup-0.7.4.exe",
       "label": "Windows NSIS 安装包",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.3/FGit-Setup-0.7.3.exe"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.4/FGit-Setup-0.7.4.exe"
     },
     {
-      "name": "FGit-Portable-0.7.3.exe",
+      "name": "FGit-Portable-0.7.4.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.3/FGit-Portable-0.7.3.exe"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.4/FGit-Portable-0.7.4.exe"
     },
     {
-      "name": "FGit-0.7.3-win64.zip",
+      "name": "FGit-0.7.4-win64.zip",
       "label": "Windows 免安装 ZIP",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.3/FGit-0.7.3-win64.zip"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.4/FGit-0.7.4-win64.zip"
     },
     {
-      "name": "FXGitSourceControl-UE5-plugin-0.7.3.zip",
+      "name": "FXGitSourceControl-UE5-plugin-0.7.4.zip",
       "label": "UE5 插件包（FXGitSourceControl，含 Web 面板与 git-lfs）",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.3/FXGitSourceControl-UE5-plugin-0.7.3.zip"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.4/FXGitSourceControl-UE5-plugin-0.7.4.zip"
     }
   ]
 }

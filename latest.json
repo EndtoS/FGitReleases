@@ -1,30 +1,30 @@
 {
-  "version": "0.7.10",
-  "notes": "FGit 0.7.10",
-  "publishedAt": "2026-11-03T04:08:29.588Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.10/FGit-Setup-0.7.10.msi",
+  "version": "0.8.2",
+  "notes": "FGit 0.8.2",
+  "publishedAt": "2026-11-03T06:17:34.139Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.2/FGit-Setup-0.8.2.msi",
   "assets": [
     {
-      "name": "FGit-Setup-0.7.10.msi",
+      "name": "FGit-Setup-0.8.2.msi",
       "label": "Windows MSI 安装包(推荐)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.10/FGit-Setup-0.7.10.msi",
-      "sha256": "dad98a645a95f23dc84a5736d6e179d8777ea7e934235af2489cbf0681058543",
-      "size": 92012544
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.2/FGit-Setup-0.8.2.msi",
+      "sha256": "82699aff2cc1f9c2fab86c9d56cb31303225d0d69c93641da385c6d792c0256b",
+      "size": 92024832
     },
     {
-      "name": "FGit-Setup-0.7.10.exe",
+      "name": "FGit-Setup-0.8.2.exe",
       "label": "Windows NSIS 安装包",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.10/FGit-Setup-0.7.10.exe"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.2/FGit-Setup-0.8.2.exe"
     },
     {
-      "name": "FGit-Portable-0.7.10.exe",
+      "name": "FGit-Portable-0.8.2.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.10/FGit-Portable-0.7.10.exe"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.2/FGit-Portable-0.8.2.exe"
     },
     {
-      "name": "FXGitSourceControl-UE5-plugin-0.7.10.zip",
+      "name": "FXGitSourceControl-UE5-plugin-0.8.2.zip",
       "label": "UE5 插件包（FXGitSourceControl，含 Web 面板与 git-lfs）",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.10/FXGitSourceControl-UE5-plugin-0.7.10.zip"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.2/FXGitSourceControl-UE5-plugin-0.8.2.zip"
     }
   ]
 }

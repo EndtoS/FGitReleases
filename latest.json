@@ -1,30 +1,25 @@
 {
-  "version": "0.8.3",
-  "notes": "FGit 0.8.3",
-  "publishedAt": "2026-11-03T07:16:22.730Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.3/FGit-Setup-0.8.3.msi",
+  "version": "0.8.4",
+  "notes": "FGit 0.8.4",
+  "publishedAt": "2026-11-03T07:41:37.098Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.4/FGit-Setup-0.8.4.msi",
   "assets": [
     {
-      "name": "FGit-Setup-0.8.3.msi",
+      "name": "FGit-Setup-0.8.4.msi",
       "label": "Windows MSI 安装包(推荐)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.3/FGit-Setup-0.8.3.msi",
-      "sha256": "6675d350c2afb8259086a3e3a4ae0b9f7f10dfc3543cbd941c2886dde6737f8c",
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.4/FGit-Setup-0.8.4.msi",
+      "sha256": "0e25558cf55a2767778f3d2f3f25eb95ac93b7af996f6bd8ed6e137206a93dd4",
       "size": 92004352
     },
     {
-      "name": "FGit-Setup-0.8.3.exe",
+      "name": "FGit-Setup-0.8.4.exe",
       "label": "Windows NSIS 安装包",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.3/FGit-Setup-0.8.3.exe"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.4/FGit-Setup-0.8.4.exe"
     },
     {
-      "name": "FGit-Portable-0.8.3.exe",
+      "name": "FGit-Portable-0.8.4.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.3/FGit-Portable-0.8.3.exe"
-    },
-    {
-      "name": "FXGitSourceControl-UE5-plugin-0.8.3.zip",
-      "label": "UE5 插件包（FXGitSourceControl，含 Web 面板与 git-lfs）",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.3/FXGitSourceControl-UE5-plugin-0.8.3.zip"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.4/FGit-Portable-0.8.4.exe"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "version": "0.8.2",
   "notes": "FGit 0.8.2",
-  "publishedAt": "2026-11-03T06:17:34.139Z",
+  "publishedAt": "2026-11-03T06:45:20.941Z",
   "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.2/FGit-Setup-0.8.2.msi",
   "assets": [
     {
       "name": "FGit-Setup-0.8.2.msi",
       "label": "Windows MSI 安装包(推荐)",
       "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.2/FGit-Setup-0.8.2.msi",
-      "sha256": "82699aff2cc1f9c2fab86c9d56cb31303225d0d69c93641da385c6d792c0256b",
+      "sha256": "fcbd110c9435e265f446d4091e669fac7dabe3ca9a7ccbab89a45092c8694261",
       "size": 92024832
     },
     {

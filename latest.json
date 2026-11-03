@@ -1,30 +1,30 @@
 {
-  "version": "0.7.8",
-  "notes": "FGit 0.7.8",
-  "publishedAt": "2026-11-03T03:51:14.807Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.8/FGit-Setup-0.7.8.msi",
+  "version": "0.7.9",
+  "notes": "FGit 0.7.9",
+  "publishedAt": "2026-11-03T04:00:25.406Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.9/FGit-Setup-0.7.9.msi",
   "assets": [
     {
-      "name": "FGit-Setup-0.7.8.msi",
+      "name": "FGit-Setup-0.7.9.msi",
       "label": "Windows MSI 安装包(推荐)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.8/FGit-Setup-0.7.8.msi",
-      "sha256": "562f67a5d3f1a12c339a8b25b46c67aeb917f85b3a22418dea2083630d01a01a",
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.9/FGit-Setup-0.7.9.msi",
+      "sha256": "4ceb64e8b01acc55ce885a0608118e293e3504cb786305100b1dc53d90009e6f",
       "size": 92008448
     },
     {
-      "name": "FGit-Setup-0.7.8.exe",
+      "name": "FGit-Setup-0.7.9.exe",
       "label": "Windows NSIS 安装包",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.8/FGit-Setup-0.7.8.exe"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.9/FGit-Setup-0.7.9.exe"
     },
     {
-      "name": "FGit-Portable-0.7.8.exe",
+      "name": "FGit-Portable-0.7.9.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.8/FGit-Portable-0.7.8.exe"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.9/FGit-Portable-0.7.9.exe"
     },
     {
-      "name": "FXGitSourceControl-UE5-plugin-0.7.8.zip",
+      "name": "FXGitSourceControl-UE5-plugin-0.7.9.zip",
       "label": "UE5 插件包（FXGitSourceControl，含 Web 面板与 git-lfs）",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.8/FXGitSourceControl-UE5-plugin-0.7.8.zip"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.7.9/FXGitSourceControl-UE5-plugin-0.7.9.zip"
     }
   ]
 }

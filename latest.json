@@ -1,29 +1,29 @@
 {
-  "version": "0.8.9",
-  "notes": "FGit 0.8.9",
-  "publishedAt": "2026-11-05T17:04:25.617Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.9/FGit-Setup-0.8.9.exe",
+  "version": "0.8.10",
+  "notes": "FGit 0.8.10",
+  "publishedAt": "2026-11-05T18:44:29.998Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.10/FGit-Setup-0.8.10.exe",
   "assets": [
     {
-      "name": "FGit-Setup-0.8.9.exe",
+      "name": "FGit-Setup-0.8.10.exe",
       "label": "Windows 安装版 exe(推荐/自动更新默认)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.9/FGit-Setup-0.8.9.exe",
-      "sha256": "58fc2a48531634b68295f1e27bb0e761f69b6dd387513e54964fe32dbe605bec",
-      "size": 89141655
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.10/FGit-Setup-0.8.10.exe",
+      "sha256": "64bceb7654c6ec8b7f1dcf3eb0e5db2f13f9db2271399a43672e0d794650f4c0",
+      "size": 90471385
     },
     {
-      "name": "FGit-Portable-0.8.9.exe",
+      "name": "FGit-Portable-0.8.10.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.9/FGit-Portable-0.8.9.exe",
-      "sha256": "cce1899ba4c300c026f290ebf8984fcce3694384f8c9ceb55ef598c30a4a5c62",
-      "size": 88922592
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.10/FGit-Portable-0.8.10.exe",
+      "sha256": "b4e30d10c47162e6411530f8ba4bfa90cc1c97d6c0143051d394b7e82d07a0c8",
+      "size": 90252326
     },
     {
-      "name": "FGit-Setup-0.8.9.msi",
+      "name": "FGit-Setup-0.8.10.msi",
       "label": "Windows MSI 安装包(手动下载)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.9/FGit-Setup-0.8.9.msi",
-      "sha256": "589d33bf54119b664bbad785421700cdef56c58da2de8c8e474e64894b7cf04e",
-      "size": 102158336
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.10/FGit-Setup-0.8.10.msi",
+      "sha256": "f42140aaac16192e16037cd025e3c2d37617de3a59bb457077a3456ca1d69188",
+      "size": 103505920
     }
   ]
 }

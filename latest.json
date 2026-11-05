@@ -1,25 +1,25 @@
 {
-  "version": "0.8.4",
-  "notes": "FGit 0.8.4",
-  "publishedAt": "2026-11-03T07:41:37.098Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.4/FGit-Setup-0.8.4.msi",
+  "version": "0.8.8",
+  "notes": "FGit 0.8.8",
+  "publishedAt": "2026-11-05T13:48:22.948Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.8/FGit-Setup-0.8.8.exe",
   "assets": [
     {
-      "name": "FGit-Setup-0.8.4.msi",
-      "label": "Windows MSI 安装包(推荐)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.4/FGit-Setup-0.8.4.msi",
-      "sha256": "0e25558cf55a2767778f3d2f3f25eb95ac93b7af996f6bd8ed6e137206a93dd4",
-      "size": 92004352
+      "name": "FGit-Setup-0.8.8.exe",
+      "label": "Windows 安装版 exe(推荐/自动更新默认)",
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.8/FGit-Setup-0.8.8.exe",
+      "sha256": "2b3f37fcbcfbd473bcc8de8e64dbd63d92f39bb1a57a3ea1fc5ed4ddc0ebbe99",
+      "size": 80145806
     },
     {
-      "name": "FGit-Setup-0.8.4.exe",
-      "label": "Windows NSIS 安装包",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.4/FGit-Setup-0.8.4.exe"
-    },
-    {
-      "name": "FGit-Portable-0.8.4.exe",
+      "name": "FGit-Portable-0.8.8.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.4/FGit-Portable-0.8.4.exe"
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.8/FGit-Portable-0.8.8.exe"
+    },
+    {
+      "name": "FGit-Setup-0.8.8.msi",
+      "label": "Windows MSI 安装包(手动下载)",
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.8/FGit-Setup-0.8.8.msi"
     }
   ]
 }

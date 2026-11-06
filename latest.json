@@ -1,28 +1,28 @@
 {
-  "version": "0.9.0",
-  "notes": "FGit 0.9.0",
-  "publishedAt": "2026-11-06T09:15:35.669Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.0/FGit-Setup-0.9.0.exe",
+  "version": "0.9.1",
+  "notes": "FGit 0.9.1",
+  "publishedAt": "2026-11-06T09:33:37.417Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.1/FGit-Setup-0.9.1.exe",
   "assets": [
     {
-      "name": "FGit-Setup-0.9.0.exe",
+      "name": "FGit-Setup-0.9.1.exe",
       "label": "Windows 安装版 exe(推荐/自动更新默认)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.0/FGit-Setup-0.9.0.exe",
-      "sha256": "c69f16294b1a8e3424a4a422dae3ff5e2bd083627b96fa7224511f1822428345",
-      "size": 89536903
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.1/FGit-Setup-0.9.1.exe",
+      "sha256": "4e6de43aebdcb8cba07e147159f7a121f2719d1610267c640bb4ca3880f53826",
+      "size": 89541672
     },
     {
-      "name": "FGit-Portable-0.9.0.exe",
+      "name": "FGit-Portable-0.9.1.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.0/FGit-Portable-0.9.0.exe",
-      "sha256": "e904d23eb5c71ac8ed8f2917f48f4b3f93ab2cac0c12eef604345f0b0a85cb26",
-      "size": 89317536
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.1/FGit-Portable-0.9.1.exe",
+      "sha256": "2497b3b7effeeaee2f7b175d68f7736c10f8facf41d6b8107ae02cd6a8dcf533",
+      "size": 89322347
     },
     {
-      "name": "FGit-Setup-0.9.0.msi",
+      "name": "FGit-Setup-0.9.1.msi",
       "label": "Windows MSI 安装包(手动下载)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.0/FGit-Setup-0.9.0.msi",
-      "sha256": "401e931ef5161b9545f6f0ec6bb57ac9d6e7855045ae97992636a5ac2c546d07",
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.1/FGit-Setup-0.9.1.msi",
+      "sha256": "199d0819727b86df59b15e09792f320f9ec9d84aeb1ae37f1dec4762d49b9f21",
       "size": 102604800
     }
   ]

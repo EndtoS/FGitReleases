@@ -1,29 +1,25 @@
 {
-  "version": "0.9.1",
-  "notes": "FGit 0.9.1",
-  "publishedAt": "2026-11-06T09:33:37.417Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.1/FGit-Setup-0.9.1.exe",
+  "version": "0.8.9",
+  "notes": "FGit 0.8.9",
+  "publishedAt": "2026-11-07T00:38:33.170Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.9/FGit-Setup-0.8.9.exe",
   "assets": [
     {
-      "name": "FGit-Setup-0.9.1.exe",
+      "name": "FGit-Setup-0.8.9.exe",
       "label": "Windows 安装版 exe(推荐/自动更新默认)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.1/FGit-Setup-0.9.1.exe",
-      "sha256": "4e6de43aebdcb8cba07e147159f7a121f2719d1610267c640bb4ca3880f53826",
-      "size": 89541672
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.9/FGit-Setup-0.8.9.exe",
+      "sha256": "0e317bbc5f6e9c15dc8b13394da41f00126ddcef7666f191c37c402b0cbcb2fe",
+      "size": 89043995
     },
     {
-      "name": "FGit-Portable-0.9.1.exe",
+      "name": "FGit-Portable-0.8.9.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.1/FGit-Portable-0.9.1.exe",
-      "sha256": "2497b3b7effeeaee2f7b175d68f7736c10f8facf41d6b8107ae02cd6a8dcf533",
-      "size": 89322347
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.9/FGit-Portable-0.8.9.exe"
     },
     {
-      "name": "FGit-Setup-0.9.1.msi",
+      "name": "FGit-Setup-0.8.9.msi",
       "label": "Windows MSI 安装包(手动下载)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.1/FGit-Setup-0.9.1.msi",
-      "sha256": "199d0819727b86df59b15e09792f320f9ec9d84aeb1ae37f1dec4762d49b9f21",
-      "size": 102604800
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.8.9/FGit-Setup-0.8.9.msi"
     }
   ]
 }

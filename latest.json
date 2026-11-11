@@ -1,29 +1,29 @@
 {
-  "version": "0.9.9",
-  "notes": "FGit 0.9.9",
-  "publishedAt": "2026-11-10T09:50:49.359Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.9/FGit-Setup-0.9.9.exe",
+  "version": "0.9.10",
+  "notes": "FGit 0.9.10",
+  "publishedAt": "2026-11-11T06:09:57.078Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.10/FGit-Setup-0.9.10.exe",
   "assets": [
     {
-      "name": "FGit-Setup-0.9.9.exe",
+      "name": "FGit-Setup-0.9.10.exe",
       "label": "Windows 安装版 exe(推荐/自动更新默认)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.9/FGit-Setup-0.9.9.exe",
-      "sha256": "627e5cbb31493114a1b2154b67f2429560f36aacd26632d0af7b8e51ffe158b6",
-      "size": 89498890
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.10/FGit-Setup-0.9.10.exe",
+      "sha256": "3ed7c1959f73ad92936f5b1aba6896a1a8e020ab4f4d2568d66bd719850436f3",
+      "size": 89582558
     },
     {
-      "name": "FGit-Portable-0.9.9.exe",
+      "name": "FGit-Portable-0.9.10.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.9/FGit-Portable-0.9.9.exe",
-      "sha256": "c34d760606ace21aae2f44af3df2d47c579392106d8c98b156e29809f5898d33",
-      "size": 89271896
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.10/FGit-Portable-0.9.10.exe",
+      "sha256": "81826da491ceb63941d4e0af73c42d374c75f8863154e481463e3123cd6bc571",
+      "size": 89355524
     },
     {
-      "name": "FGit-Setup-0.9.9.msi",
+      "name": "FGit-Setup-0.9.10.msi",
       "label": "Windows MSI 安装包(手动下载)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.9/FGit-Setup-0.9.9.msi",
-      "sha256": "9f56c6499fe083a463418ee7288d88d44e835ecea963d433ad74c8615832414c",
-      "size": 102555648
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.10/FGit-Setup-0.9.10.msi",
+      "sha256": "2c09e223abdc290473e720f9148f943f60f849b8d7347f2774992cf3709f2da2",
+      "size": 102633472
     }
   ]
 }

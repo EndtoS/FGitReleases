@@ -1,28 +1,28 @@
 {
-  "version": "0.9.15",
-  "notes": "FGit 0.9.15",
-  "publishedAt": "2026-11-13T07:36:22.503Z",
-  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.15/FGit-Setup-0.9.15.exe",
+  "version": "0.9.16",
+  "notes": "FGit 0.9.16",
+  "publishedAt": "2026-11-13T13:09:27.691Z",
+  "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.16/FGit-Setup-0.9.16.exe",
   "assets": [
     {
-      "name": "FGit-Setup-0.9.15.exe",
+      "name": "FGit-Setup-0.9.16.exe",
       "label": "Windows 安装版 exe(推荐/自动更新默认)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.15/FGit-Setup-0.9.15.exe",
-      "sha256": "79ee000ba995de3a1d587363aecb744a22901d71594b651c40ff95b100ec8e11",
-      "size": 89592173
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.16/FGit-Setup-0.9.16.exe",
+      "sha256": "7965084ca6c5b8f03713bdbd9dc217f7a9aa27a3a28b0bc368684deef43bab10",
+      "size": 89593700
     },
     {
-      "name": "FGit-Portable-0.9.15.exe",
+      "name": "FGit-Portable-0.9.16.exe",
       "label": "Windows 便携版",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.15/FGit-Portable-0.9.15.exe",
-      "sha256": "2e8a7936a2d3ee0def27b830e1cfedb4b0cc3cd9c7ab9a1b6148979ff0f21e53",
-      "size": 89365155
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.16/FGit-Portable-0.9.16.exe",
+      "sha256": "64a352d74b6ed2ea93b8692d5631b9358b811921e5b7f415eb4d23ec58016c34",
+      "size": 89366677
     },
     {
-      "name": "FGit-Setup-0.9.15.msi",
+      "name": "FGit-Setup-0.9.16.msi",
       "label": "Windows MSI 安装包(手动下载)",
-      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.15/FGit-Setup-0.9.15.msi",
-      "sha256": "fde20d057b36fdda9eefe093d1c4f7f8b46172dfe2a89e242b07076fb7157087",
+      "url": "https://github.com/EndtoS/FGitReleases/releases/download/v0.9.16/FGit-Setup-0.9.16.msi",
+      "sha256": "b131db8d09811d1c162ea228c5980008e95693c5fa07698119297c5683a82f01",
       "size": 102645760
     }
   ]
